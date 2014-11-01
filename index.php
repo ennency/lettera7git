@@ -18,6 +18,8 @@ require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 kkjk
 
 cciao 
+
+nuova modifica 
 <<<<<<< HEAD
 
 modifiche nuove 
